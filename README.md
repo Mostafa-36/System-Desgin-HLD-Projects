@@ -64,7 +64,7 @@ A scalable system design case study for a local business discovery and review pl
 
 ### 📰 Facebook News Feed System Design
 
-👉 [**View Project**]([YOUR_GITHUB_REPOSITORY_LINK](https://github.com/Mostafa-36/FB-News-System-Desgin))
+👉 [**View Project**](https://github.com/Mostafa-36/FB-News-System-Desgin)
 
 A scalable system design case study for a Facebook-like social networking News Feed, designed to support billions of users with low-latency feed retrieval, asynchronous post distribution, and highly available social graph management.
 
