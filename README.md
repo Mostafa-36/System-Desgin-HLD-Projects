@@ -62,6 +62,21 @@ A scalable system design case study for a local business discovery and review pl
 - Database Sharding & Change Data Capture (CDC)
 - Horizontal Microservices Scalability
 
+### 📰 Facebook News Feed System Design
+
+👉 [**View Project**]([YOUR_GITHUB_REPOSITORY_LINK](https://github.com/Mostafa-36/FB-News-System-Desgin))
+
+A scalable system design case study for a Facebook-like social networking News Feed, designed to support billions of users with low-latency feed retrieval, asynchronous post distribution, and highly available social graph management.
+
+**Key Concepts:**
+
+- Fan-out on Write, Fan-out on Read & Hybrid Fan-out
+- Microservices Architecture & Event-Driven Design
+- Asynchronous Processing with Apache Kafka
+- Redis Caching & Feed Precomputation
+- Database Indexing, Sharding & Horizontal Scalability
+- Capacity Estimation & Read/Write Workload Optimization
+
 ---
 
 ## 📌 Repository Goals
